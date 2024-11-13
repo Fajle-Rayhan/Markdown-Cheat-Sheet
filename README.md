@@ -15,12 +15,12 @@ Refer to the reference guides for [basic syntax](https://www.markdownguide.org/b
 
 Basic Syntax
 ---
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+# H1 -32 -2em
+## H2 -24 -1.5em
+### H3 -20 -1.25em
+#### H4 -16 -1em
+##### H5 -14 -0.875em
+###### H6 -13.6 -0.85em
 
 ```
 H1
