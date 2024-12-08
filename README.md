@@ -14,7 +14,9 @@ tags:
 Refer to the reference guides for [basic syntax](https://www.markdownguide.org/basic-syntax/) and [extended syntax](https://www.markdownguide.org/extended-syntax/).
 
 Basic Syntax
+======HEADER==========
 ---
+
 # H1 -32 -2em
 ## H2 -24 -1.5em
 ### H3 -20 -1.25em
@@ -120,3 +122,85 @@ X^2^
 
  [go up  🔼](#Markdown%20Cheat%20Sheet)
  
+---
+
+Callout:
+
+> [!info] hello world this is just a callout for you and for what 
+
+> [!example]- this is a text
+> hello world this is just a callout for you and for what 
+> this is just a beginning for out journey 
+
+> [!NOTE]
+> hello world this is just a callout for you and for what 
+> this is just a beginning for out journey 
+
+> [!warning]
+> hello world this is just a callout for you and for what 
+> this is just a beginning for out journey 
+
+> [!quote]
+> hello world this is just a callout for you and for what 
+> this is just a beginning for out journey 
+
+ > hello world
+ >> this is a text 
+
+Emoji:
+
+:exclamation: Use emoji icons to enhance text. :+1:  Look up emoji codes at [emoji-cheat-sheet.com](http://emoji-cheat-sheet.com/)
+
+    Markup : Code appears between colons :EMOJICODE:
+
+
+
+- [ ] An uncompleted task
+- [x] A completed task
+
+
+- [ ] An uncompleted task
+    - [ ] A subtask
+
+
+1. A numbered list
+    1. A nested numbered list
+    2. Which is numbered
+    2. Which is numbered
+    2. Which is numbered  
+      2. Which is numbered  
+      2. Which is numbered  
+      2. Which is numbered  
+      2. Which is numbered  
+    2. Which is numbered  
+    2. Which is numbered  
+2. Which is numbered
+2. Which is numbered
+2. Which is numbered
+
+* Bullet list
+    * Nested bullet
+        * Sub-nested bullet etc
+        * Sub-nested bullet etc
+          * Sub-nested bullet etc
+          * Sub-nested bullet etc
+            * Sub-nested bullet etc
+            * Sub-nested bullet etc
+* Bullet list item 2
+* Bullet list item 2
+
+
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | \|
+
+    Markup :  # Heading 1 #
+    
+    -OR-
+    
+    Markup :  ============= (below H1 text)
+
+---
+
+
